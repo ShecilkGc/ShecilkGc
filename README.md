@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I´m Jessica 👋
+
+A passionate student of Information Technology with a TSU degree and a strong commitment to continuous learning and skills development. Looking for opportunities to apply my knowledge and grow professionally in the IT field.
 
 <!--
 **ShecilkGc/ShecilkGc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
